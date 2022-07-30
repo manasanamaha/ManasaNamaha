@@ -113,12 +113,12 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("https://res.cloudinary.com/suryakss/image/upload/v1615616804/manasanamaha/MANASARA980X360_1_g61bmj.jpg") no-repeat center top;
+    background: url("https://racycoca.sirv.com/Manasanamaha/images/MANASARA980X360%20(1).jpg") no-repeat center top;
     background-size:cover;
 }
 @media only screen and (max-width: 600px) {
     #banner {
-        background: url("https://res.cloudinary.com/suryakss/image/upload/v1615523435/manasanamaha/telugumob_ao7g3x.jpg") no-repeat center top;
+        background: url("https://racycoca.sirv.com/Manasanamaha/images/posters/telugumob.jpg") no-repeat center top;
         background-size:cover;
     }
 }
